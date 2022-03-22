@@ -1,0 +1,1 @@
+mongodb+srv://osderos:Oksir123@library.mauz6.mongodb.net/local_library?retryWrites=true&w=majority
